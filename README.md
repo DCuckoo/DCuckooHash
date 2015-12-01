@@ -6,7 +6,7 @@ Hash tables have been widely used in distributed systems, owing to their very lo
 
 ### Example
 
-There is a little example in `main.c`, which shows the basic usage of DCuckooHash. The project is based on CMake. Run `$ cmake; make` to build.
+There is a little example in `main.c`, which shows the basic usage of DCuckooHash. The project is based on CMake. Run `$ cmake .; make` to build.
 
 ### Other Implementations
 
