@@ -10,6 +10,6 @@ There is a little example in `main.c`, which shows the basic usage of DCuckooHas
 
 ### Other Implementations
 
-In the directory `other` are the source code of our implementation of other six hash algorithms. There are some data files in this directory:
+In the directory `other` are the source code of our implementation of other six hash algorithms: chaining hash, linear probe, double hashing, cuckoo hashing, d_left hashing, and peacock hashing. There are some data files in this directory:
 - `rrc00.20140608.txt.del`: The key-value pair list to initialize the hash table.
 - `rrc00.20140608.txt.del.10tr`: An array of key generated from the previous file, used to search the table.
